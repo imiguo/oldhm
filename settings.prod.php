@@ -1,0 +1,131 @@
+<?/*
+site_name	midollar
+def_payee_account
+def_payee_name
+
+site_start_day	7
+site_start_month	3
+site_start_year	2017
+hostname	localhost
+database	oldhm
+db_login	homestead
+db_pass	secret
+show_stats_box	1
+show_members_stats	0
+show_paidout_stats	0
+show_top10_stats	0
+show_last10_stats	0
+show_info_box	1
+show_info_box_started	1
+show_info_box_running_days	1
+show_info_box_total_accounts	1
+show_info_box_active_accounts	1
+show_info_box_deposit_funds	1
+show_info_box_total_withdraw	1
+show_info_box_visitor_online	1
+show_info_box_members_online	1
+show_info_box_last_update	1
+show_kitco_dollar_per_ounce_box	1
+show_kitco_euro_per_ounce_box	1
+use_opt_in	0
+opt_in_email	midollaradm@gmail.com
+use_only_active_members	1
+system_email	midollaradm@gmail.com
+usercanchangeegoldacc	1
+usercanchangeemail	1
+sendnotify_when_userinfo_changed	1
+graph_validation	0
+graph_max_chars	6
+graph_text_color	#ff8d00
+graph_bg_color	#FFFFFF
+md5altphrase
+use_referal_program	1
+license	1234567
+min_auto_withdraw	0.01
+max_auto_withdraw	100
+use_auto_payment	0
+max_auto_withdraw_user	150
+show_news_box	0
+last_news_count	5
+enable_calculator	1
+time_dif	0
+def_payee_account_wiretransfer	1
+def_payee_account_egold
+key	5A16B883B8CD4D1A4D845231113912D6CDB963A1A8DD6E80BFC12E23F4A1686361AA46BDD9B484C449458577928E0C1ECB0F4BA0ABBDD24A4B945D7257F9EAA64A8E38CD230187961245DF091C2D803B4C43DE7F84572C77C595FEA90B4BFA49BE9B15DED925BD9E7B4D1A59CB7688553D4431210366FD469849382E395AF9E37370480CAE2AB615D4DFBEEE8498B80301BD86034BCF1D4E21ECFCB8F5EBB9E69A31FC348F39C77D85A726E10CC55AAD6DD501811A0C1FA855E6AC74949DD3B3F0800EA09470
+cnf	14793510450
+reverse_columns	0
+deny_registration	0
+def_payee_account_perfectmoney	U1917660
+def_payee_name_perfectmoney	Midollar
+md5altphrase_perfectmoney	AE1E93B9D27D59C6E904E3BD98A1769F
+def_payee_account_payeer	379150213
+def_payee_key_payeer	aeb814a7f44a
+def_payee_additionalkey_payeer	dd0d5c538674
+def_payee_account_bitcoin
+def_payee_qrcode_bitcoin
+def_payee_account_evocash
+md5altphrase_evocash
+def_payee_account_intgold
+md5altphrase_intgold
+intgold_posturl	0
+usercanchangeperfectmoneyacc	0
+use_number_validation_number	0
+advanced_graph_validation	0
+advanced_graph_validation_min_font_size	0
+advanced_graph_validation_max_font_size	0
+accesswap	0
+internal_transfer_enabled	0
+def_payee_account_stormpay
+md5altphrase_stormpay
+stormpay_posturl
+dec_stormpay_fee	0
+def_payee_account_paypal
+def_payee_account_goldmoney
+md5altphrase_goldmoney
+def_payee_account_eeecurrency
+md5altphrase_eeecurrency
+eeecurrency_posturl	0
+gpg_path
+def_payee_account_ebullion
+def_payee_name_ebullion
+md5altphrase_ebullion	d
+ebullion_keyID
+brute_force_handler	0
+brute_force_max_tries	0
+redirect_to_https	0
+use_user_location	0
+use_transaction_code	0
+min_user_password_length	0
+use_history_balance_mode	0
+account_update_confirmation	0
+withdrawal_fee	0.00
+withdrawal_fee_min	0.00
+min_withdrawal_amount	0.00
+max_daily_withdraw	0.00
+use_add_funds	0
+force_upline	0
+get_rand_ref	0
+use_active_referal	0
+pay_active_referal	0
+use_solid_referral_commission	0
+solid_referral_commission_amount	0.00
+ref2_cms	0.00
+ref3_cms	0.00
+ref4_cms	0.00
+ref5_cms	0.00
+ref6_cms	0.00
+ref7_cms	0.00
+ref8_cms	0.00
+ref9_cms	0.00
+ref10_cms	0.00
+show_referals	0
+show_refstat	0
+show_info_box_vip_accounts	0
+vip_users_deposit_amount	0
+show_info_box_today_deposit_funds	0
+show_info_box_newest_member	0
+show_refs10_stats	0
+refs10_start_date	0000-00-00
+site_url	https://midollar.biz
+cnf	14790113520
+*/?>
